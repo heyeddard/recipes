@@ -1,0 +1,5 @@
+mixer 
+shaker
+sugar 
+water 
+friuts 
